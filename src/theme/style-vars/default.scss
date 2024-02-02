@@ -1,0 +1,9 @@
+// 可在此中修改 element plus 默认的常规主题变量
+@forward 'element-plus/theme-chalk/src/common/var.scss' with (
+  $colors:
+    (
+      'primary': (
+        'base': #8040ff,
+      )
+    )
+);

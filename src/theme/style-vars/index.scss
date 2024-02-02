@@ -1,0 +1,8 @@
+/**
+ * 此文件为 scss 全局变量文件，禁止写入样式
+ */
+
+// element plus 默认样式
+@use './default.scss' as *;
+// element plus 暗黑主题样式
+@use './dark.scss' as *;
